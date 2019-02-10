@@ -1,0 +1,7 @@
+{
+    "WordAPI": {
+        "APIID": "",
+        "APIKey": "",
+        "Url": "https://od-api.oxforddictionaries.com:443/api/v1/wordlist/en/domains="
+    }
+}
